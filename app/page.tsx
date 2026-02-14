@@ -18,32 +18,32 @@ function MainContent() {
     const slides = [
     {
       text: "My Love… If I could hold your face right now, I would simply say thank you… because loving you has been the greatest honor of my life.",
-      media: "/image1.jpeg",
+      media: "/image1.jpg",
       type: "image",
     },
     {
       text: "Before you, I didn’t even know my heart had this much room for peace. You came into my life so gently, yet you changed everything so deeply.",
-      media: "/image2.jpeg",
+      media: "/image2.jpg",
       type: "image",
     },
     {
       text: "You are my answered prayer, my calm after long days, my safe place in a noisy world. Every single day with you feels like a gift heaven wrapped specially for me.",
-      media: "/image3.jpeg",
+      media: "/image3.jpg",
       type: "image",
     },
     {
       text: "Your patience with me, your kindness, the way you stand by me even when I don’t have all the words… it humbles me. You love me in ways I didn’t know I needed.",
-      media: "/image4.jpeg",
+      media: "/image4.jpg",
       type: "image",
     },
     {
       text: "This Valentine’s Day, I want you to hear it clearly — my heart is not just with you… it is yours. Completely. Freely. Forever.",
-      media: "/image5.jpeg",
+      media: "/image5.jpg",
       type: "image",
     },
     {
       text: "Happy Valentine's Day! I miss you already and I can't wait for our date. 💘",
-      media: "/video.mp4",
+      media: "/image6.jpg",
       type: "video",
       isFinal: true,
     },
