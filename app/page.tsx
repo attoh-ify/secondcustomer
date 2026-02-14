@@ -44,7 +44,7 @@ function MainContent() {
     {
       text: "Happy Valentine's Day! I miss you already and I can't wait for our date. 💘",
       media: "/image6.jpg",
-      type: "video",
+      type: "image",
       isFinal: true,
     },
   ];
